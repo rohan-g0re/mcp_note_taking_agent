@@ -1,0 +1,18 @@
+# dont push env file
+.env
+
+# dont push venv
+venv/   
+
+
+
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+
