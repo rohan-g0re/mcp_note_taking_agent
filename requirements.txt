@@ -1,0 +1,34 @@
+# MCP (Model Context Protocol) - The star of our show!
+mcp
+
+# LangChain for AI integration with Gemini support - UPDATED!
+langchain
+langchain-google-genai
+langchain-community
+
+# Gemini API - Our recommended AI provider
+google-generativeai
+
+# Alternative providers (keep for options)
+langchain-openai
+langchain-anthropic
+openai
+anthropic
+
+# For Google Drive integration (later phases)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# For markdown generation
+markdown
+
+# For better CLI experience
+click
+rich
+
+# For async operations (MCP uses async)
+asyncio-mqtt
+
+# Environment variables for API keys
+python-dotenv
